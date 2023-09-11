@@ -1,0 +1,3 @@
+/home/damiano/CLionProjects/sealing/cmake-build-debug/CMakeFiles/sealing.dir
+/home/damiano/CLionProjects/sealing/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/damiano/CLionProjects/sealing/cmake-build-debug/CMakeFiles/rebuild_cache.dir
